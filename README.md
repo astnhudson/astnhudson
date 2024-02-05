@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Austin. I'm an operations manager who designs and programs applications to improve business processes.
 - 🧬 I am interested in automation & machine learning as well as mobile applications.
-- 🌱 Currently I am exploring low-level programming languages in order to contribute to open-source emulation projects.
+- 🌱 Currently I am making mobile and desktop experiences using the Godot game engine.
 - 📧 Want to get in touch? You can reach out to me on LinkedIn. [![Linkedin Badge](https://img.shields.io/badge/-astnhudson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/astnhudson)
 
 ### Tools & Languages
