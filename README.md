@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Austin. I'm an operations manager who designs and programs applications to improve business processes. I also create video games for PC & mobile platforms.
+- 👋 Hey, I’m Austin. I'm a project manager who designs and programs applications to improve business processes. I also create video games for PC & mobile platforms.
 - 🧬 I am interested in solving problems through automation and empowering individuals through useful mobile applications
 - 🌱 Currently I am making mobile and desktop experiences using the Godot game engine.
 - 📧 Want to get in touch? You can reach out to me on LinkedIn. [![Linkedin Badge](https://img.shields.io/badge/-astnhudson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/astnhudson)
